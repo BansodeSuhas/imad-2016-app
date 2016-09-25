@@ -11,7 +11,8 @@
 		<hr/>
 		<h3> Personal</h3>
         	<br>
-	       	<div id ="main-text" class="center text-big bold">
+	
+        	<div id ="main-text" class="center text-big bold">
            	<h1> Hi! My first Web App...</h1>
 	   	<h4>Local Changes made </h4>
            	<h2> Second time local changes</h2>
